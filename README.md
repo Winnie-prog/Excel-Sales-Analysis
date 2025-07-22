@@ -38,7 +38,7 @@ Several PivotTables and charts were created to analyze and compare:
 - Both visualized using **line charts**.
 
 
-# 📊 Dashboard
+#  Dashboard
 
 An interactive Excel dashboard was created to consolidate the key insights:
 
